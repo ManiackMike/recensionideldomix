@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:73A282EB-8612-4676-A18F-9B4D23CAA88C</id>
+ <title>Page list Atom feed</title>
+ <updated>2023-11-15T14:37:31+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:5D579CB3-6665-4E9A-80F6-82620C043BB1</id>
+  <title>Benvenuto</title>
+  <title xmlns="urn:iweb:">Benvenuto</title>
+  <in-navbar xmlns="urn:iweb:">5D579CB3-6665-4E9A-80F6-82620C043BB1</in-navbar>
+  <link rel="alternate" href="Benvenuto.html"/>
+  <updated>2023-11-15T14:37:31.001+01:00</updated>
+  <content>Benvenuto</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B798303B-C948-4782-BB93-5A5D1F015364</id>
+  <title>Recensioni</title>
+  <title xmlns="urn:iweb:">Recensioni</title>
+  <in-navbar xmlns="urn:iweb:">B798303B-C948-4782-BB93-5A5D1F015364</in-navbar>
+  <link rel="alternate" href="Recensioni/Recensioni.html"/>
+  <updated>2005-09-21T03:08:38+02:00</updated>
+  <content>Recensioni</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8BA57077-C589-4086-82E8-AD689AF6DFD8</id>
+  <title>Contattami</title>
+  <title xmlns="urn:iweb:">Contattami</title>
+  <in-navbar xmlns="urn:iweb:">8BA57077-C589-4086-82E8-AD689AF6DFD8</in-navbar>
+  <link rel="alternate" href="Contattami.html"/>
+  <updated>2023-11-15T14:37:31.002+01:00</updated>
+  <content>Contattami</content>
+ </entry>
+</feed>
